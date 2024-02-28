@@ -1,1 +1,3 @@
-﻿/sources/EmployeeCrud.Api/.vs/EmployeeCrud.Api
+﻿.vs/
+bin/
+obj/
